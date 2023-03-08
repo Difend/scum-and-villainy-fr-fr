@@ -1,0 +1,28 @@
+{
+"label": "Tailles de navires",
+"mapping": {
+"description": "data description."
+},
+
+"entries": {
+  "Corvette": {
+    "name": "Corvette",
+    "description": "Les grands vaisseaux spatiaux ne peuvent pas atterrir sur les planètes, ils doivent rester en orbite et utiliser une navette pour atterrir."
+  },
+  "Dreadnought": {
+    "name": "Cuirassé",
+    "description": "Des vaisseaux énormes, qui ne peuvent pas atterrir sur les planètes, sont souvent le vaisseau amiral d’une grande flotte ou une base mobile pour des vaisseaux plus petits."
+  },
+  "Freighter": {
+    "name": "Cargo",
+    "description": "Des vaisseaux de taille moyenne peuvent atterrir sur des planètes de la taille du vaisseau le plus commun."
+  },
+  "Frigate": {
+    "name": "Frégate",
+    "description": "Des vaisseaux énormes ne peuvent pas atterrir sur les planètes, souvent des vaisseaux de guerre avec plusieurs armes lourdes."
+  },
+  "Personnel": {
+    "name": "Personnel",
+    "description": "De petits vaisseaux, ils peuvent atterrir sur les planètes, ils peuvent transporter des armes légères, mais pas assez pour endommager sérieusement les plus gros vaisseaux."
+  }
+},

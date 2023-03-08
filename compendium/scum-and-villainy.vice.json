@@ -1,0 +1,40 @@
+{
+"label": "Vices",
+"mapping": {
+"description": "data description."
+},
+
+"entries": {
+  "Faith": {
+    "name": "Foi",
+    "description": "Vous faites partie d’un culte ou observez des cérémonies spécifiques à intervalles réguliers."
+  },
+  "Gambling": {
+    "name": "Paris",
+    "description": "Vous avez envie de jouer au jeu ou de parier sur des événements sportifs, etc."
+  },
+  "Home Cooking": {
+    "name": "Cuisine",
+    "description": "Vous pouvez tirer parti des talents culinaires de l’équipage. (Nécessite la compétence particulière de cuisine maison de la danseuse étoile)"
+  },
+  "Luxury": {
+    "name": "Luxe",
+    "description": "Vous cherchez un niveau de vie élevé, avec des échantillons de richesse coûteux et ostentatoire."
+  },
+  "Obligation": {
+    "name": "Obligations",
+    "description": "Vous êtes engagé dans une famille, une cause, une organisation, une œuvre de charité, etc."
+  },
+  "Pleasure": {
+    "name": "Plaisir",
+    "description": "Vous cherchez la gratification hédoniste avec des amants, nourriture, boisson, drogues, art, etc."
+  },
+  "Stupeur": {
+    "name": "Drogué",
+    "description": "Vous anesthésiez vos sens avec la consommation de drogues, la consommation excessive d’alcool, la lutte jusqu’à l’épuisement, etc."
+  },
+  "Weird": {
+    "name": "Mystère",
+    "description": "Tu fais des expériences étranges, tu explores la Voie, tu communies avec des artefacts d’Ur, etc."
+  }
+},

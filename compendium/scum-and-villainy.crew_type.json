@@ -1,0 +1,28 @@
+{
+"label": "Types de Navire",
+"mapping": {
+"description": "data description.",
+"experience_clues": "data.experience_clues",
+"def_abilities": "data.def_abilities"
+},
+
+"entries": {
+  "Cerbere": {
+  "name": "Cerbère",
+  "description": "Chasseurs de primes et spécialistes de l’extraction.",
+  "experience_clues": "Gagnez XP en effectuant avec succès une extraction ou la capture d’une récompense.",
+  "def_abilities": "(Com) Escáner de Largo Alcance, (Mo) Motor de Salto, (Aux) Ganchos, (Aux) Celdas, (Ent) DestrezanTipo de nave:CargueronStacey Weathers, Arlox, Ishi, Lix, Jezri"
+  },
+  "Firedrake": {
+  "name": "Dragon de feu",
+  "description": "Des rebelles et des criminels hégémoniques.",
+  "experience_clues": "Gagnez XP en effectuant avec succès des travaux qui s’opposent à la domination hégémonique.",
+  "def_abilities": "(Ar) Cañones de Partículas, (Mo) Motor de Salto, (Ca) Alojamentos de la Tripulación, (Mej) Lanzadera, (Aux) EscudosnTipo de nave: CorvetanGarin, Tyura, Ada Black, Tiko Lux, Ibo-one"
+  },
+  "Stardancer": {
+  "name": "Ballerine Stellaire",
+  "description": "Trafiquants, contrebandiers et fraudeurs.",
+  "experience_clues": "Gagnez XP en exécutant avec succès une opération de transport ou de contrebande.",
+  "def_abilities": "(Ca) Compartimentos de Contrabando, (Ca) Bodega de Carga, (Mo) Motor de Salto, (Aux) Cantina, (Ent) PerspicacianTipo de nave:CargueronT'kala, Alor, Heani, Rakka, Citani"
+  }
+},

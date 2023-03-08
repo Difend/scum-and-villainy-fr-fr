@@ -1,0 +1,359 @@
+{
+"label": "Compétences",
+"mapping": {
+"description": "data description.",
+"class":"data class."
+},
+
+"entries": {
+  "(Me) Analyst": {
+  "name": "(Me) Analyste",
+  "description": "Lorsque vous piratez un système, vous pouvez également demander au propriétaire ou à l'emplacement du système comment vous obtiendrez 6 pour acquérir des informations. Lorsque vous résistez aux conséquences d'une action de piratage, prenez +1d. vous apprenez quelque chose sur les systèmes que vous manipulez. Si vous receviez des informations, vous pouvez les retirer pour apprendre une deuxième chose, ou vous pouvez simplement accepter le 6 pour ce que vous vouliez savoir.",
+  "class":"Mecanicien"
+  },
+  "(Me) Bailing Wire and Mech Tape": {
+  "name": "(Me) Fil d’attache et ruban américain",
+  "description": "Vous obtenez une activité de réparation de temps libre supplémentaire, et l'activité de réparation coûte 0 crédit.nnL'activité de réparation coûte normalement 1 crédit à effectuer. Avec cette capacité, vous pouvez effectuer l'activité sans frais. Les réparations gratuites ne peuvent pas être \"sauvegardées\". Vous en avez un pour votre temps libre.",
+  "class":"Mecanicien"
+  },
+  "(Me) Construct Whisperer": {
+  "name": "(Me) Chuchoteur de machines",
+  "description": "Les machines vous parlent lorsque vous les étudiez.nnLa première fois que vous obtenez un critique lors de la réparation ou de la construction d'une machine particulière, vous pouvez lui apporter une simple modification (voir Construction, page 282).nnComment les machines vous chuchotent-elles leurs secrets ? Est-ce intuitif ? Ressentez-vous ce qu'ils ressentent ? La modification n'est pas réalisée si vous améliorez le résultat avec des cred.",
+  "class":"Mecanicien"
+  },
+  "(Me) Fixed": {
+  "name": "(Me) Réparé",
+  "description": "Vous pouvez utiliser votre armure spéciale pour résister aux conséquences des machines qui se cassent ou sont endommagées, ou pour vous pousser lorsque vous réparez ou construisez une machine.nnLorsque vous utilisez cette capacité, cochez la case d'armure spéciale sur votre jeton. Les machines peuvent inclure votre vaisseau, vous pouvez donc l'utiliser comme armure spéciale pour votre vaisseau s'il est à bord et inflige des dégâts. Si vous utilisez cette capacité pour vous dépenser, vous obtenez l'un des buffs (+1d, effet +1, agissez malgré de gros dégâts), mais vous n'obtenez pas 2 points de stress. Votre armure spéciale est restaurée lorsque vous sélectionnez votre équipement au début d'une tâche.",
+  "class":"Mecanicien"
+  },
+  "(Me) Hacker": {
+  "name": "(Me) Hacker",
+  "description": "Vous pouvez dépenser votre armure spéciale pour résister aux conséquences d'une action de piratage ou pour vous dépenser en piratant ou en collectant des informations par voie électronique.nnLorsque vous utilisez cette capacité, cochez la case d'armure spéciale sur votre jeton. Si vous utilisez cette capacité pour vous dépenser, vous obtenez l'un des buffs (+1d, effet +1, agissez malgré de gros dégâts), mais vous n'obtenez pas 2 points de stress. Votre armure spéciale est réinitialisée lorsque vous sélectionnez votre chargement au début d'une tâche.",
+  "class":"Mecanicien"
+  },
+  "(Me) Junkyard Hunter": {
+  "name": "(Me) Chasseur de ferraille",
+  "description": "Lorsque vous achetez des pièces ou de l'équipement pendant votre temps libre, vous pouvez gagner deux ressources ou une ressource avec une qualité +1.nnVos contacts dans la casse peuvent vous fournir ce dont vous avez besoin, remis à neuf ou avec une offre spéciale. Si vous gagnez deux ressources, elles auront toutes deux la même qualité que votre jet.",
+  "class":"Mecanicien"
+  },
+  "(Me) Mechanic’s Heart": {
+  "name": "(Me) Coeur de Mecanicien",
+  "description": "En parlant avec le cœur, vos mots peuvent atteindre même le criminel le plus coriace, et vous gagnez en puissance. nnCette capacité fonctionne dans toutes les situations, sans aucune restriction. Si vous parlez sincèrement et authentiquement, vos paroles seront entendues.",
+  "class":"Mecanicien"
+  },
+  "(Me) Overclock": {
+  "name": "(Me) Overclock",
+  "description": "Lorsque vous dépensez un pari sur un jet de bricolage pour réparer ou mettre à niveau, considérez le système sur lequel vous travaillez comme une qualité +1 jusqu'à la fin du travail en cours.nnVous pouvez faire un jet de bricolage pendant un travail simplement pour tirer le meilleur parti du système , mais ces augmentations temporaires ne sont que conjoncturelles et doivent être annulées la prochaine fois que vous revenez à quai. Vous pouvez overclocker des systèmes non embarqués, améliorant ainsi leur qualité.",
+  "class":"Mecanicien"
+  },
+  "(Me) Tinker": {
+  "name": "(Me) Ferrailleur",
+  "description": "Lorsque vous travaillez sur une horloge avec réparation ou piratage, ou lorsque vous étudiez un schéma, remplissez le segment +1.nnLes capacités de départ ne peuvent pas être choisies via la capacité spéciale du vétéran.nnVous obtenez ce segment supplémentaire, qu'il s'agisse d'une action pendant un travail ou pendant votre temps libre. . Cela signifie qu'il est plus facile pour vous de contourner les systèmes de sécurité au travail ou d'effectuer un correctif d'urgence tout en fuyant un navire qui vous poursuit que pour les autres.",
+  "class":"Mecanicien"
+  },
+  "(Me) Xeno": {
+  "name": "(Me) Xeno",
+  "description": "Vous pouvez dépenser du Stress (0-2) pour accomplir un exploit surhumain dont seuls les membres de votre espèce sont capables. (Page 296)nnChaque espèce a des mécanismes, donc lorsque vous jouez un xéno, gardez à l'esprit la relation entre ce xénotype et les machines.nnCertains xénos ont une relation inhabituelle avec la technologie (en particulier la technologie Ur), comme le Sah' iir, tandis que d'autres utilisent des matériaux, tels que Mem.nnVotre espèce a-t-elle des adaptations inhabituelles pour travailler avec des machines ? Votre espèce est-elle petite et peut-elle se glisser facilement dans les conduits ? Considérez également comment ces adaptations reflètent les interactions non-machine.nnComment votre héritage xéno s'intègre-t-il dans l'histoire ? Avez-vous été exclu par les Guildes de certaines opportunités pour ne pas être humain ou, au contraire, votre espèce a-t-elle été accueillie au cœur de l'Hégémonie ?",
+  "class":"Mecanicien"
+  },
+  "(Mu) Sauvegarde": {
+  "name": "(Mu) Renforcement",
+  "description": "L'effort d'un allié coûte 1 stress (et non 2) sur toute action que vous facilitez ou assistez.",
+  "class":"Muscle"
+  },
+  "(Mu) Battleborn": {
+  "name": "(Mu) Né pour la bataille",
+  "description": "Vous pouvez dépenser votre armure spéciale pour réduire les dégâts d'une attaque au combat ou pour vous pousser pendant un combat.nnLorsque vous utilisez cette capacité, cochez la case d'armure spéciale sur votre jeton. \"Réduire les dégâts\" signifie réduire les dégâts d'un niveau. Si vous utilisez cette capacité pour vous dépenser, vous obtenez l'un des buffs (+1d, effet +1, agissez malgré de gros dégâts), mais vous n'obtenez pas 2 points de stress. Votre armure spéciale est réinitialisée lorsque vous sélectionnez votre chargement au début d'une tâche.",
+  "class":"Muscle"
+  },
+  "(Mu) Bodyguard": {
+  "name": "(Mu) Garde du corps",
+  "description": "Lorsque vous protégez un membre d'équipage, résistez avec +1d. Lorsque vous subissez des dégâts, retirez 1 point de stress.nnLa manœuvre de protection du travail d'équipe (voir page 158) vous permet d'infliger une conséquence à un coéquipier.",
+  "class":"Muscle"
+  },
+  "(Mu) Flesh Wound": {
+  "name": "(Mu) Blessure superficielle",
+  "description": "Si vous êtes blessé au début du temps libre, marquez +3 segments sur votre horloge de soins.nnSi vous travaillez dur pour ignorer les pénalités de blessure, vous ne subissez qu'un seul stress (et non 2). une augmentation non naturelle, les blessures ne vous arrêtent pas. Pour plus d'informations, voir Récupérer à la page 187.",
+  "class":"Muscle"
+  },
+  "(Mu) Predator": {
+  "name": "(Mu) Prédateur",
+  "description": "Vous recevez +1d aux jets contre des cibles affaiblies ou vulnérables.nnLorsque vous avez recueilli des informations sur une faiblesse ou une vulnérabilité, le pire que vous pouvez obtenir est un résultat de 4/5.nnVous savez comment exploiter la peur, la douleur et la vulnérabilité pour obtenir ce tu veux. veux. Essayer d'utiliser ces conditions sur une personne vous rapporte presque toujours quelque chose, même si l'information n'est pas immédiatement utile ou est incomplète. Une personne dans un état vulnérable peut être droguée, gravement blessée ou effrayée.",
+  "class":"Muscle"
+  },
+  "(Mu) Ready For Anything": {
+  "name": "(Mu) Prêt pour tout",
+  "description": "Lorsque vous êtes pris en embuscade, vous gagnez de la puissance pour toutes les actions pendant un flashback, et votre premier flashback coûte 0 stress.nnVous vous attendez toujours à des ganks et vous vous y préparez. Souvenez-vous de cette préparation lorsqu'une embuscade se produit. Si votre configuration nécessite des jets d'action, vous gagnez en puissance sur eux.",
+  "class":"Muscle"
+  },
+  "(Mu) Scary": {
+  "name": "(Mu) Terrifiant",
+  "description": "Vous dégagez un air de menace et de danger évident, même pour les plus inattentifs. Vous gagnez en puissance lorsque vous essayez d'intimider quelqu'un. Si c'est fait immédiatement après une démonstration de force, vous obtenez également +1d.nnVous instillez la peur chez les gens autour de vous, surtout quand vous devenez violent. La réaction dépend d'eux. Certains vous fuiront, certains seront choqués, certains deviendront violents à la place. Le maître juge la réponse d'un PNJ particulier.nnL'intimidation est généralement traitée par un jet de commandement, et vos efforts pour y parvenir seront plus fructueux si vous montrez que vous êtes sérieux.",
+  "class":"Muscle"
+  },
+  "(Mu) Unstoppable": {
+  "name": "(Mu) Imparable",
+  "description": "Vous pouvez vous pousser à essayer de faire l'une des choses suivantes :nnUn exploit de force physique proche du surhumain, ou affronter un petit groupe sur un pied d'égalité en mêlée.nnNotez que les capacités de départ ne peuvent pas être choisies via la capacité spéciale du Vétéran.nnQuand en vous efforçant d'activer cette capacité, vous gagnez toujours l'un des avantages de l'effort normal (+1d, effet +1, etc.) en plus de la capacité spéciale.nnUn exploit surhumain est un exploit qu'une personne normale ne peut pas accomplir sans assistance, comme casser des chaînes en métal. Si vous affrontez un petit gang à armes égales, vous aurez la même échelle.",
+  "class":"Muscle"
+  },
+  "(Mu) Wrecking Crew": {
+  "name": "(Mu) Équipe de démolition",
+  "description": "Votre force et votre férocité sont infâmes. Lorsque vous touchez en mêlée, vous obtenez +1d.nnLorsque vous passez un gambit au combat, vous obtenez également un effet +1 sur cette action.nnQue vous soyez un maître artiste martial ou élevé par des mystiques pour combattre avec des armes anciennes, vos prouesses martiales au corps à corps est légendaire (et peut attirer ceux qui souhaitent apprendre ou vous défier).nnSi vous dépensez un gambit sur un jet de combat, vous recevez +1 effet sur cette action. Cela peut soit frapper un seul adversaire plus durement, soit compenser la mise à l'échelle ou les pénalités de qualité. Ce buff se cumule avec le +1d du Gambit et le +1d du buff de base de Wrecking Team.",
+  "class":"Muscle"
+  },
+  "(Mu) Xeno": {
+  "name": "(Mu) Xeno",
+  "description": "Vous pouvez dépenser du Stress (0-2) pour accomplir un exploit surhumain dont seuls les membres de votre espèce sont capables. (Page 296) nnDe Worf à D'Argo en passant par Chewbacca, les puissants extraterrestres au combat ont été un incontournable du genre space opera. La capacité de départ du Muscle est importante, mais de nombreux xenos ont une force bien supérieure à celle d'un humain normal. vous voulez utiliser votre capacité xeno. nnTout aussi intéressantes sont les limitations de votre héritage sinus. Ces limitations peuvent être des options pour votre équipage pour gagner des gambits ou créer des situations narratives intéressantes. Votre espèce déteste-t-elle les environnements chauds, comme celui d'Aketi ? Que pense l'Hégémonie de votre espèce ?",
+  "class":"Muscle"
+  },
+  "(My) Center": {
+    "name": "(Mi) Centre",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.",
+    "class":"Mystique"
+  },
+  "(My) Kinetics": {
+    "name": "(Mi) Cinétique",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.",
+    "class":"Mystique"
+  },
+  "(My) Psy-blade": {
+    "name": "(Mon) Feuille psychique",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.",
+    "class":"Mystique"
+  },
+  "(My) Psy-dancing": {
+    "name": "(Mon) Danse psychique",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».",
+    "class":"Mystique"
+  },
+  "(My) Sundering": {
+    "name": "(Mi) Séparation",
+    "description": "Vous pouvez vous efforcer de vous harmoniser avec le chemin et de le déformer, infligeant des dégâts psychiques à toute personne dans la zone vulnérable à votre attaque. 2d pour résister aux effets.nn-Vous déformez le Chemin en vous-même et, par extension, déformez le Chemin chez les autres - au mieux. La séparation ne peut pas nuire aux objets inanimés. Lorsqu'il cause des dommages, les symptômes peuvent inclure des convulsions à court terme et des vaisseaux sanguins rompus. Ceux spécialement formés pour résister aux attaques psychiques ou autrement protégés peuvent réduire leur effet.",
+    "class":"Mystique"
+  },
+  "(My) The Way": {
+    "name": "(Mon) La Voie",
+    "description": "Vous pouvez dépenser un gambit au lieu de payer les coûts de stress.nnNotez que les capacités de départ ne peuvent pas être choisies via la capacité spéciale du vétéran.nnLorsque vous avez besoin de dépenser du stress, vous pouvez dépenser un gambit à la place. Cela inclut les coûts de résistance et d'imposition. Pour les capacités qui ont un coût variable, comme le détachement, ces coûts supplémentaires feront partie de la même activation, donc l'effort et toutes les ressources supplémentaires ne coûtent ensemble qu'un seul.",
+    "class":"Mystique"
+  },
+  "(My) Visions": {
+    "name": "(Mi) Visions",
+    "description": "Dépensez 1 stress pour voir un endroit éloigné ou une personne liée à vous de manière intime au loin.nnDépensez 1 stress pour chaque effet supplémentaire :nn-dure une minute au lieu d'un instant ;nn-votre cible peut également vous voir et vous entendre nn-vous pouvez voir quelque chose qui vous est familier, pas intime.nnDépenser un pari sur votre capacité de départ ("le Chemin") couvre tous les coûts. Lorsque votre cible peut également vous voir et vous entendre, vous êtes tous les deux dans la même "zone" pour les besoins d'autres capacités.",
+    "class":"Mystique"
+  },
+  "(My) Warded": {
+    "name": "(Mon) Protégé",
+    "description": "Vous pouvez dépenser votre armure spéciale pour résister aux conséquences d'une attaque de Voie ou de l'utilisation d'un artefact, ou vous forcer lorsque vous utilisez des pouvoirs mystiques.nnLorsque vous utilisez cette capacité, cochez la case d'armure spéciale sur votre jeton. Si vous l'utilisez pour vous forcer, vous obtenez l'un des buffs (+1d, effet +1, agissez malgré de gros dégâts), mais vous n'obtenez pas 2 points de stress. Votre armure spéciale est réinitialisée lorsque vous sélectionnez votre chargement au début d'une tâche.",
+    "class":"Mystique"
+  },
+  "(My) Way Shield": {
+    "name": "(Mi) Bouclier de la Voie",
+    "description": "Vous pouvez bloquer les éclairs de blaster avec Chemin (résister avec Volonté).nnSi vous résistez à une attaque de blaster, vous pouvez dépenser 1 stress pour rediriger le tir et faire votre propre attaque avec.nnRésister aux blasters de cette manière réduit généralement les dégâts à zéro.",
+    "class":"Mystique"
+  },
+  "(My) Xeno": {
+    "name": "(Mon) Xeno",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.0",
+    "class":"Mystique"
+  },
+  "(P) Ace Pilot": {
+    "name": "(P) Pilote As",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.1",
+    "class":"Pilote"
+  },
+  "(P) Commander": {
+    "name": "(P) Commandant",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.2",
+    "class":"Pilote"
+  },
+  "(P) Exceed Specs": {
+    "name": "(P) Dépassement Spécifications",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.3",
+    "class":"Pilote"
+  },
+  "(P) Hédonisme": {
+    "name": "(P) Hédoniste",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.4",
+    "class":"Pilote"
+  },
+  "(P) Keen Eye": {
+    "name": "(P) Ojo Avizor",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.5",
+    "class":"Pilote"
+  },
+  "(P) Leaf On the Wind": {
+    "name": "(P) Lame au vent",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.6",
+    "class":"Pilote"
+  },
+  "(P) Punch It!": {
+    "name": "(P) Frappez-le !",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.7",
+    "class":"Pilote"
+  },
+  "(P) Side Job": {
+    "name": "(P) Travail Secondaire",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.8",
+    "class":"Pilote"
+  },
+  "(P) Traveler": {
+    "name": "(P) Voyageur",
+    "description": "Vous obtenez la méditation comme un vice. Le satisfaire supprime +1 stress et ajoute des visions sombres comme excès possible. En choisissant Dark Visions comme excès, le Chemin vous montre un être cher, un contact ou un ami en grand danger.9",
+    "class":"Pilote"
+  },
+  "(P) Xeno": {
+    "name": "(P) Xeno",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.0",
+    "class":"Pilote"
+  },
+  "(Sc) Ask Questions Later": {
+    "name": "(Ça) Perguntar Après",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.1",
+    "class":"Canaille"
+  },
+  "(Sc) Daredevil": {
+    "name": "(Ça) Téméraire",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.2",
+    "class":"Canaille"
+  },
+  "(Sc) Devil’s Own Luck": {
+    "name": "(Ça) Chance du diable",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.3",
+    "class":"Canaille"
+  },
+  "(Sc) I Know à Guy": {
+    "name": "(Ça) Je connais quelqu’un",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.4",
+    "class":"Canaille"
+  },
+  "(Sc) Never Tell Me the Odds": {
+    "name": "(Ça) Ne me dites jamais les probabilités.",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.5",
+    "class":"Canaille"
+  },
+  "(Sc) Serendipitous": {
+    "name": "(Ça) Fortuit",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.6",
+    "class":"Canaille"
+  },
+  "(Sc) Shoot First": {
+    "name": "(Ça) Tirer en premier",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.7",
+    "class":"Canaille"
+  },
+  "(Sc) Tenacious": {
+    "name": "(Ça) Tenace",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.8",
+    "class":"Canaille"
+  },
+  "(Sc) When the Chips Are Down": {
+    "name": "(Ça) Quand les tuiles sont en jeu",
+    "description": "Vous pouvez vous forcer à faire l'une des choses suivantes : utiliser le Chemin pour lancer un objet de la taille d'une table avec une force dangereuse, ou vous propulser brièvement à une vitesse surhumaine. La force dangereuse signifie être assez fort pour blesser gravement une personne normale. Une vitesse surhumaine signifie être assez rapide pour devenir un peu plus qu'un flou. Sa portée est d'environ la taille d'une grande pièce. Oui, les gens peuvent compter comme des objets.9",
+    "class":"Canaille"
+  },
+  "(Sc) Xeno": {
+    "name": "(Ça) Xeno",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.0",
+    "class":"Canaille"
+  },
+  "(Sp) Air of Respectability": {
+    "name": "(Or) Air de respect",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.1",
+    "class":"Orateur"
+  },
+  "(Sp) Disarming": {
+    "name": "(Or) Désarmer",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.2",
+    "class":"Orateur"
+  },
+  "(Sp) Favors Owed": {
+    "name": "(or) Faveurs dues",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.3",
+    "class":"Orateur"
+  },
+  "(Sp) Heart To Heart": {
+    "name": "(Or) Franco",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.4",
+    "class":"Orateur"
+  },
+  "(Sp) Infiltrator": {
+    "name": "(or) Infiltrateur",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.5",
+    "class":"Orateur"
+  },
+  "(Sp) Old Friends": {
+    "name": "(or) Vieux Amis",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.6",
+    "class":"Orateur"
+  },
+  "(Sp) Player": {
+    "name": "(or) Joueur",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.7",
+    "class":"Orateur"
+  },
+  "(Sp) Purpose": {
+    "name": "(or) Détermination",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.8",
+    "class":"Orateur"
+  },
+  "(Sp) Subterfuge": {
+    "name": "(or) Subterfuge",
+    "description": "Vous pouvez concentrer l'énergie du Chemin dans votre arme de mêlée.nnLorsqu'elle est chargée, l'arme peut facilement couper des matériaux non blindés et vous gagnez en puissance lors d'attaques de mêlée.nnLes plaques de métal lourdes n'ont pas de bouclier, vous pouvez donc ouvrir la plupart des portes sans problème. Les constructions de bouclier sont rares, mais offrent une protection suffisante pour que l'attaque perde de sa puissance. Vous ne pouvez pas infuser vos poings (ou gants, coups de poing américains, etc.) avec du pouvoir.9",
+    "class":"Orateur"
+  },
+  "(Sp) Xeno": {
+    "name": "(Or) Xeno",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».0",
+    "class":"Orateur"
+  },
+  "(st) Book Learning": {
+    "name": "(ci) Lecture",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».1",
+    "class":"Chirurgien"
+  },
+  "(St) Combat Medic": {
+    "name": "(ci) Médecin de combat",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».2",
+    "class":"Chirurgien"
+  },
+  "(St) Dr. Strange": {
+    "name": "(ci) Dr. Misterio",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».3",
+    "class":"Chirurgien"
+  },
+  "(St) I’m a Doctor Not a...": {
+    "name": "(ci) Je suis un médecin, pas un...",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».4",
+    "class":"Chirurgien"
+  },
+  "(St) Moral Compass": {
+    "name": "(ci) Boussole Morale",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».5",
+    "class":"Chirurgien"
+  },
+  "(St) Patch": {
+    "name": "(ci) Correction",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».6",
+    "class":"Chirurgien"
+  },
+  "(St) Physicker": {
+    "name": "(ci) Thérapeute",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».7",
+    "class":"Chirurgien"
+  },
+  "(St) Under Pressure": {
+    "name": "(ci) Sous pression",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».8",
+    "class":"Chirurgien"
+  },
+  "(St) Welcome Anywhere": {
+    "name": "(ci) Bienvenue en Tout Lieu",
+    "description": "Vous pouvez travailler dur pour obscurcir l'esprit d'une cible et la convaincre face à des preuves contradictoires.nn'Faites ce que je vous dis. Je suis l'ambassadeur".nnDépensez 1 stress pour chaque effet supplémentaire : ils n'ont que de vagues souvenirs de l'événement - fonctionne en petit groupe.nnDe telles confusions ne persistent pas indéfiniment, bien que ceux qui ont de vagues souvenirs remplissent souvent les détails manquants avec hypothèses. « J'ai dû vérifier votre identité. Je vérifie toujours ».9",
+    "class":"Chirurgien"
+  },
+  "(St) Xeno": {
+    "name": "(ci) Xeno",
+    "description": "Vous pouvez vous efforcer de vous harmoniser avec le chemin et de le déformer, infligeant des dégâts psychiques à toute personne dans la zone vulnérable à votre attaque. 2d pour résister aux effets.nn-Vous déformez le Chemin en vous-même et, par extension, déformez le Chemin chez les autres - au mieux. La séparation ne peut pas nuire aux objets inanimés. Lorsqu'il cause des dommages, les symptômes peuvent inclure des convulsions à court terme et des vaisseaux sanguins rompus. Ceux spécialement formés pour résister aux attaques psychiques ou autrement protégés peuvent réduire leur effet.0",
+    "class":"Chirurgien"
+  }
+}

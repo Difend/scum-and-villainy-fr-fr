@@ -1,0 +1,60 @@
+{
+  "label": "Conséquences d’être recherché",
+  "entries": {
+    "Arrestation": {
+      "name": "Arrestation",
+      "description": "<p>Un détective présente un dossier de preuve à un juge pour engager des poursuites contre votre équipage. La police du système envoie une patrouille pour les arrêter (une bande au moins égale à <strong>balance</strong> à votre <strong>nível de recherche</strong> ou à un navire de ce niveau). Passez avec <strong>Cred</strong> égal à votre <strong>nível de recherche +3</strong>, livrer quelqu’un à la prison (cela nettoie votre <strong>attention</strong> et <strong>nível de recherche</strong> dans le système) ou essayer d’éviter la capture. </p>"
+    },
+    "Bounty Hunter": {
+      "name": "Chasseur de prime",
+      "description": "<p>Une faction ennemie engage un chasseur de primes. Combattez, volez ou payez. Si vous n'avez aucune faction avec un statut négatif, vous évitez les enchevêtrements. Calculez son niveau en fonction de la faction qui l'a embauché et de sa colère. Débarrassez-vous d'eux en payant 3 crédits.</p>"
+    },
+    "Collectors": {
+      "name": "Collecteurs",
+      "description": "<p>Une agence de recouvrement réclame une partie de votre navire. Pages <strong>2 Cred</strong>, donnez-leur les composants (Eliminad un module de bateau) ou faites-les disparaître autrement. </p>"
+    },
+    "Cooperation": {
+      "name": "Coopération",
+      "description": "<p>Une faction avec laquelle vous avez un statut +2 ou +3 vous demande une 'faveur'. Vous acceptez d’aider ou de perdre le statut avec eux. Si vous n’avez pas de statut de faction +2 ou +3, vous évitez l’enchevêtrement.</p>"
+    },
+    "Impounded": {
+      "name": "Confisqué",
+      "description": "<p>Les autorités du quai confisquent votre navire. Soudoyer les dockers à lever le verrou avec <strong>2 Cred</strong>, ou Capturad votre bateau de retour. Si vous n’êtes pas sur une planète ou une station spatiale, évitez l’enchevêtrement. </p>"
+    },
+    "Interrogation": {
+      "name": "Interrogatoire",
+      "description": "<p>Des officiers du système encerclent un des PJ pour l’interroger sur les crimes de l’équipage. Comment ont-ils réussi à le capturer? Donnez-leur <strong>2 Cred</strong>, ou appuyez sur <strong>(nível 2 de dégâts)</strong>. Et vous leur direz ce qu’ils veulent savoir <strong>(+2 attention)</strong>. Vous pouvez résister à chacune de ces conséquences séparément. </p>"
+    },
+    "New \"Friends\"": {
+    "name": "Nouveaux \"Amis\"",
+    "description": "<p>Une faction neutre vous demande de faire un travail extrêmement dangereux, qui paie peu ou qui génère plus <strong>attention</strong>que la normale (le maître décide). Acceptez ou perdez un niveau statut avec eux. </p>"
+    },
+    "Out of Gas": {
+      "name": "Sans carburant",
+      "description": "<p>Une partie de votre vaisseau tombe en panne de manière catastrophique, endommageant le système et le rendant inopérant jusqu'à ce qu'il soit réparé. Si vous n'avez pas utilisé votre vaisseau lors de la dernière tâche, évitez l'enchevêtrement.</p>n<p>Cette incompatibilité peut se produire lors d'un vol entre des planètes ou des systèmes, ou sur le chemin vers/depuis une tâche. Cette panne signifie que l'ensemble du système (par exemple, les moteurs) ne peut pas être utilisé. À qui dois-je demander de l'aide et combien cela coûte-t-il ?</p>"
+    },
+    "Pirates !": {
+      "name": "Pirates !",
+      "description": "<p>Les pirates tentent de prendre le contrôle de votre vaisseau par la force. Fuyez, combattez ou faites un marché. Si vous n’utilisez pas le vaisseau dans la dernière tâche, évitez l’enchevêtrement. </p>"
+    },
+    "Reprisals": {
+      "name": "Représailles",
+      "description": "<p>Une faction ennemie se déplace contre vous ou vos amis. Payez <strong>1 Cred</strong> par catégorie de faction, permettez-leur de se moquer de vous ou de contre-attaque. Si vous n’avez aucune faction avec un statut négatif, vous évitez l’enchevêtrement. </p>"
+    },
+    "Ship Trouble": {
+      "name": "Problèmes dans le vaisseau",
+      "description": "<p>Un système du vaisseau se casse. Il endommage un système (le maître décide). </p> <blockquote> <p>Vous pouvez réparer le système normalement, mais vous devrez faire face aux conséquences des dommages au moment où ils se produisent. Cette complication peut se produire pendant le vol entre planètes ou systèmes, ou sur le chemin vers/depuis un travail. </p> </blockquote></p>"
+    },
+    "Unquiet Black": {
+      "name": "Vacío Inquiétant",
+      "description": "<p>Un extraterrestre ou une créature de la Voie parvient à monter à bord. Achetez les services d’un mystique ou d’un exterminateur pour le détruire ou le vaincre, ou affrontez-le vous-mêmes. </p> <blockquote> <p>Traite la <strong>magnitude de la créature de la Voie comme le niveau de recherche de l’équipage dans le système</strong>. Des parasites, des charges dont vous ne saviez pas qu’elles étaient vivantes, des créatures mystérieuses qui se cachent dans des routes non cartographiées et des effets physiques étranges en utilisant vos unités de saut au-delà de leur capacité peuvent être appliqués ici. </p> </blockquote>"
+    },
+    "Ur Field": {
+      "name": "Notre Camp",
+      "description": "<p>La porte de saut la plus proche vous appelle chacun dans une langue que vous ne pouvez pas comprendre. Résistez avec <strong>Volonté</strong> ou recevez <strong>dégâts de niveau 1</strong> des visions que vous ne pouvez pas ignorer. </p> <blockquote> <p>Ce que vous décidez de faire avec les visions dépend de vous. Ils se terminent après que l’équipage quitte le système ou le jour de congé suivant, ce qui arrive en premier. </p> </blockquote>"
+    },
+    "Wanted Level 4": {
+      "name": "Recherche 4 : Vaisseau de Guerre",
+      "description": "<p>Le gouverneur envoie un vaisseau de guerre Légionnaire ou Malklaith pour capturer votre vaisseau. Lorsque vous atteignez <strong>niveau de recherche 4</strong> dans un système, La garde personnelle du gouverneur a été envoyée pour vous amener à la justice, et vous devrez trouver un moyen de s’échapper. On ne peut pas les soudoyer, et les combattre serait une imprudence. En tout cas, <strong>si vous survivez</strong> à la rencontre, votre <strong>niveau de recherche tombe à 1</strong> Les ressources pour votre recherche ne sont pas infinies. </p> <blockquote> <p>Habituellement, le navire sera une frégate bien armée avec quelques vaisseaux personnels. Vous pouvez envisager de repeindre ou de modifier votre vaisseau, ou d’obtenir de faux documents et transpondeurs pour vous débarrasser d’expériences similaires. </p> </blockquote>"
+    }
+}

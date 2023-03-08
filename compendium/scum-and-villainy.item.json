@@ -1,0 +1,297 @@
+{
+"label": "Objets",
+"mapping": {
+"description": "data description.",
+"class": "data class."
+},
+
+"entries": {
+  "(Me) Fine Hacking Rig": {
+    "name": "(Me) Plate-forme de piratage de qualité",
+    "description": "Lunettes d’affichage, exploits inédits, puces overclockées du marché noir, pinces vampires optiques... Le piratage est à la fois matériel et logiciel. Qui gère votre ordinateur ? Écrivez-vous vos propres codes ou quelqu’un vous les facilite ? Votre kit a-t-il une décoration spéciale ? [1 charge]",
+    "class": "Mécanicien"
+  },
+  "(Me) Fine Ship Repair Tools": {
+    "name": "(Me) Outils de réparation de navires de qualité",
+    "description": "Des outils électriques, une perceuse sonique, des sondes de test, des jauges électriques, un pistolet à rivets. Est-ce un kit ou avez-vous acheté un à un? [2 charges]",
+    "class": "Mécanicien"
+  },
+  "(Me) Genius Pet": {
+    "name": "(Moi) Animal de compagnie génie",
+    "description": "Il ne peut pas parler, mais il peut comprendre le langage et aider dans les tâches de base. Il vous aime. Très adorable. Il anticipe vos actions. Est-ce quelque chose de commun (comme un chien ou un chat) ou est-ce une créature extraterrestre ? Comment s’appelle-t-elle ? De qui l’avez-vous obtenu (légalement ou illégalement) ? [0 charge]",
+    "class": "Mécanicien"
+  },
+  "(Me) Small Drone": {
+    "name": "(Me) Petit Drone",
+    "description": "Petit drone télécommandé avec des caméras. Il peut porter quelque chose de léger. Vous l’avez fabriqué ou vous l’avez acheté ? Vole, marche ou rampe ? Quel surnom lui avez-vous donné ? Avez-vous plusieurs drones à bord ou seulement plusieurs châssis et pièces de rechange pour un seul drone ? [0 charge]",
+    "class": "Mécanicien"
+  },
+  "(Me) Spare Parts": {
+    "name": "(Me) Pièces de rechange",
+    "description": "Por lo general, para reparar naves y aparatos electrónicos. A menudo olvidadas en el bolsillo o en el cinturón de herramientas.nnAunque no suelen ser muy caras por lo general, de una forma u otra siempre acabas llevando las piezas con las que trabajas y las piezas para reparar las naves.nnSi necesitas un cable, un soldador o un trozo de cinta adhesiva, los tienes a mano.nnAlgo que sea más raro o complejo puede requerir una tirada de estilo de vida para tenerlo contigo. [1 carga]",
+    "class": "Mécanicien"
+  },
+  "(Me) Vision-Enhancing Goggles": {
+    "name": "(Me) Lunettes de vision augmentée",
+    "description": "Lunettes avec réglage pour la vision thermique et ultraviolette, ainsi que plusieurs niveaux de grossissement (x1000). Elles s’assombrissent également lorsque cela est nécessaire. À quoi ressemblent-ils ? [1 charge]",
+    "class": "Mécanicien"
+  },
+  "(Mu) Detonator Launcher": {
+    "name": "(Mu) Zarathoustra, un lance-grenade",
+    "description": "Lance-grenades à grande vitesse. Les grenades sont illégales, de sorte qu’ils génèrent Attention lors du tir. Peut être utilisé pour marquer/endommager des véhicules et des structures. Ce n’est pas subtil. Batteries incluses, mais les détonateurs viennent séparément. [2 charges]",
+    "class": "Muscle"
+  },
+  "(Mu) Fine Blaster Pistol": {
+    "name": "(Mu) Krieger, un pistolet Blaster de qualité",
+    "description": "En tant qu’ami ou allié, ce pistolet unique peut être utilisé pendant le temps libre pour menacer ou intimider. En tant qu’ennemi, quelqu’un la possède et a une balle portant votre nom. Vous connaissez cette arme intimement, d’où ou pourquoi ? [1 charge]",
+    "class": "Muscle"
+  },
+  "(Mu) Fine Flamethrower": {
+    "name": "(Mu) Zmei, un lance-flammes de qualité",
+    "description": "Pour les moments où vous avez besoin besoin de chauffer l’ambiance. Réglages à son point et extra croustillant. Pas facile à cacher. Ses attaques couvrent la zone d’une petite pièce (et laissent des marques de brûlures distinctives résultant en une attention supplémentaire). Les complications lors de la prise de vue peuvent inclure la rupture des réservoirs de carburant. Quels autocollants ou marques porte-t-elle ? [2 charges]",
+    "class": "Muscle"
+  },
+  "(Mu) Fine Martial Arts Style": {
+    "name": "(Mu) Style d’arts martiaux de qualité",
+    "description": "Votre propre combinaison personnalisée de techniques de combat, unique comme une empreinte digitale. Où et avec qui vous êtes-vous entraîné pour la première fois ? Comment appelez-vous votre style? Avez-vous déjà eu des élèves? [0 charge]",
+    "class": "Muscle"
+  },
+  "(Mu) Fine Sniper Rifle": {
+    "name": "(Mu) Vera, un fusil de sniper de qualité",
+    "description": "De haut calibre, avec verrouillage automatique, déclencheur personnalisé, double cartouche et calibrage complet. Peut tirer des munitions mystiques. Vous l’avez personnalisé vous-même, vous l’avez commandé spécialement, vous l’avez pris à un mort ou c’était un cadeau de quelqu’un ? [2 charge]. Vous pouvez tirer des munitions mystiques. Avez-vous personnalisé, commandé spécialement, sorti d’un corps ou offert par quelqu’un ? [2 charge]",
+    "class": "Muscle"
+  },
+  "(Mu) Fine Vibro-Blade": {
+    "name": "(Mu) Sunder, un Vibro-lame de qualité",
+    "description": "Découpez presque n’importe quel matériau. Décoré. Couteau ou épée de duel. Quel dessin est gravé sur la lame ? L’avez-vous pris ou l’avez-vous mérité ? [1 charge]",
+    "class": "Muscle"
+  },
+  "(Mu) Mystic Ammunition": {
+    "name": "(Mu) Munitions mystiques",
+    "description": "Avec une cartouche de grand calibre, conçue pour être tirée à partir d’une arme spécialisée qui libère des énergies mystiques lorsqu’elle frappe. Donnez de la puissance contre des objectifs mystiques. Qui fabrique vos balles mystiques ? Pourquoi sont-elles efficaces contre les énergies de la Voie ? [0 charge]",
+    "class": "Muscle"
+  },
+  "(My) Fine Melee Weapon": {
+    "name": "(Mon) Arme de corps à corps de qualité",
+    "description": "Une arme démodée qui agit comme une extension de votre corps. À l’ère des Blasters, les épées et les armes tranchantes sont des vestiges de la culture et des coutumes pour la plupart. Mais les pouvoirs de la Voie semblent interagir à contrecœur avec la technologie de pointe. Chaque ordre mystique garde des objets anachroniques et les utilise de différentes manières. Possédez-vous une telle arme ? Dans l’affirmative, quelle formation avez-vous reçue et comment l’utilisez-vous? [2 charges]",
+    "class": "Mystique"
+  },
+  "(My) Memento Of Your Travels": {
+    "name": "(Mon) Souvenirs de vos voyages",
+    "description": "Une petite statue, une pièce démodée, une mèche de cheveux, un tableau. Qui vous l’a donné et pourquoi le gardez-vous ? C’est un bon ou mauvais souvenir ? [0 charge]",
+    "class": "Mystique"
+  },
+  "(My) Offerings": {
+    "name": "(Mon) Offrandes",
+    "description": "Une bougie, une lampe, des fleurs, de la nourriture, de l’eau, de l’encens, des pierres de voyage. Cadeaux laissés dans un sanctuaire pour que n’importe quel mystique les ramasse pendant qu’il se promène, ou offerts en échange d’un travail ? [0 charge]",
+    "class": "Mystique"
+  },
+  "(My) Outdated Religious Outfit": {
+    "name": "(Mon) Costumes Religieux Démodés",
+    "description": "Tuniques, capes usagées, sandales, etc. Les participants et les pratiquants des cultes hégémoniques populaires et autorisés portent généralement des insignes de fabrication moderne bien connue. Les vôtres ont-ils été hérités ? Vous ne les avez jamais remplacés ? Ont-ils été faits à la main ? [1 charge]",
+    "class": "Mystique"
+  },
+  "(my) Précurseur Artifact": {
+    "name": "(Mi) Artefact Précurseur",
+    "description": "Un petit objet fabriqué avec des matériaux anciens. Technologie Précurseur. Est-ce quelque chose qui vous a été donné par les mystiques qui vous ont formé, vous l’avez trouvé dans votre enfance ou c’est quelque chose que vous avez ramassé dans vos voyages? Que faites-vous? Parlez au reste de la table de votre puissance, valeur et effets secondaires. [1 charge]",
+    "class": "Mystique"
+  },
+  "(My) Trappings Of Religion": {
+    "name": "(Mon) Objets religieux",
+    "description": "Parchemins, textes, icônes, tasses et bols, cloches. Quels objets sacrés portent votre ordre particulier de mystiques ? Seraient-ils facilement reconnaissables ? [1 charge]",
+    "class": "Mystique"
+  },
+  "(N) Knockout Drugs": {
+    "name": "(N) Drogues pour Assommer",
+    "description": "Les effets secondaires sont fréquents et peuvent inclure des maux de tête, des nausées, des étourdissements, une mort subite, des crises de colère violentes et/ou des malaises légers. Peut ne pas fonctionner pour tous les Xenos. [0 charge]",
+    "class": "No Letal"
+  },
+  "(N) Restrictions": {
+    "name": "(N) Épouses",
+    "description": "Une grande variété pour faire face à tous les types d’humains et Xeno. [0 charge]",
+    "class": "No Letal"
+  },
+  "(N) Stun Batons": {
+    "name": "(N) Matraques Paralysantes",
+    "description": "Choquant ! [1 charge]",
+    "class": "No Letal"
+  },
+  "(N) Stun Blasters": {
+    "name": "(N) Configuration de l’étourdissement pour Blasters",
+    "description": "Blasters normaux avec paramètres d’étourdissement, pour les cas où votre VIP ne coopère pas. [1 charge]",
+    "class": "No Letal"
+  },
+  "(N) Stun Grenades": {
+    "name": "(N) Grenades paralysantes",
+    "description": "Flashbangs dans l’espace. Remplace le détonateur sur la fiche. [1 charge]",
+    "class": "No Letal"
+  },
+  "(P) Fine Customized Spacesuit": {
+    "name": "(P) Combinaison spatiale personnalisée de qualité",
+    "description": "Des patchs cool, une balise d’urgence, un peu d’impulsion. Ça vous gardera en vie dans l’espace ou au cas où votre cabine se déclencherait. Il vous permet de vous déplacer et peut-être d’étendre les sauts quand il y a de l’atmosphère. Quels patchs ou de l’art personnalisé avez-vous dans le vôtre et que signifient-ils ? [2 charges]",
+    "class": "Pilote"
+  },
+  "(P) Kit Fine Mechanic’s": {
+    "name": "(P) Kit de peinture de qualité",
+    "description": "Scanners portables, kit de réparation de coque de navire, outils à main divers. Tout ce dont vous avez besoin pour réparer un véhicule et le faire voler à nouveau. Quel outil venez-vous d’obtenir ? Lequel avez-vous personnalisé ? [1 charge]",
+    "class": "Pilote"
+  },
+  "(P) Fine Small Urbot": {
+    "name": "(P) Petit Urbot de qualité",
+    "description": "Un petit Urbot qui offre un soutien pour le pilotage et peut transporter de petits objets. Il semble inquiétant conscient. Les Urbots doivent être formatés une fois par an. Depuis combien de temps avez-vous amené le vôtre à la Guilde des Ingénieurs pour cette procédure ? Quel est son nom et quels traits de personnalité a-t-il ? Comment est le châssis et comment vous aide-t-il à le piloter ? [2 charges]",
+    "class": "Pilote"
+  },
+  "(P) Grappling Hook": {
+    "name": "(P) Crochet de préhension",
+    "description": "Petit, mais mécanisé. Il peut vous tirer vers le haut. Il tient dans la ceinture. Il vous donne un look audacieux lorsque vous arrivez à la rescousse. C’était quand la dernière fois que tu l’as cassé ? [1 charge]",
+    "class": "Pilote"
+  },
+  "(P) Guild License": {
+    "name": "(P) Licence d’une Guilde",
+    "description": "Permis de pilote légitime (même si ce n’est pas le vôtre). Il vous permettra de passer par une porte de saut. Comment l’avez-vous obtenu ? [1 charge]",
+    "class": "Pilote"
+  },
+  "(P) Victory Cigars": {
+    "name": "(P) Cigares de célébration",
+    "description": "Assez pour partager avec quelques personnes choisies. À quoi bon faire des cascades incroyables si vous ne pouvez pas le célébrer ? Il n’y a aucune garantie que le reste de l’équipage apprécie l’odeur ou n’active pas les filtres à air. Où les obtenez-vous et combien avez-vous encore? Sont-ils rares ? [0 charge]",
+    "class": "Pilote"
+  },
+  "(S) Armor": {
+    "name": "(Est) Armure",
+    "description": "Corps entier et rien de subtil. Il vous protège de quelques coups de feu. Il vous défendra d’un couteau sans problème. Il utilise de l’énergie et aide le mouvement. [2 charges]"
+  },
+  "(S) Blaster Pistol": {
+    "name": "(Est) Pistolet Blaster",
+    "description": "Déclenche des faisceaux de plasma chauds. Précise seulement à courte portée. Sonne quand il tire comme 'piu piu' (obligatoire). Ils se trouvent dans une grande variété de formes. Comment est la vôtre personnalisée ? [1 ou 2 charges]"
+  },
+  "(S) Communicator": {
+    "name": "(Est) Communicateur",
+    "description": "Il a quelques bandes, probablement même cryptées. Il ne fonctionne qu’en orbite. [0 charge]"
+  },
+  "(S) Détonateur": {
+    "name": "(Est) Détonateur",
+    "description": "Arme explosive et extrêmement mortelle. Elle tient dans la paume de la main et peut être lancée. Il gère les portes blindées que les Blackasters lourds ne peuvent pas gérer. C’est illégal. Vous ne devriez pas l’avoir. Non, vraiment. [1 charge]"
+  },
+  "(S) Outils de piratage": {
+    "name": "(Est) Outils de piratage",
+    "description": "Plate-forme, pinces de jonction, prises et ports, crackers de clavier, logiciel spécialisé, onglets modifiés sur mesure, dictionnaires arc-en-ciel, exploits automatisés. Ce que tout initié hacker a besoin. [1 charge]"
+  },
+  "(S) Heavy Blaster": {
+    "name": "(est) Blaster lourd",
+    "description": "Il peut causer des dégâts considérables aux véhicules et à des choses comme les portes non blindées. Il a une douzaine de tirs. Elle cause des dommages graves et lourds aux personnes. Elle est illégale. [2 charges]"
+  },
+  "(S) Illicit Drugs": {
+    "name": "(Est) Drogues Illégales",
+    "description": "Quel est votre poison, cow-boy de l’espace ? Pour un usage personnel, capturer une dangereuse récompense ou un divertissement lorsque vous voyagez entre les planètes. [0 charge]"
+  },
+  "(S) Medkit": {
+    "name": "(Est) Trousse médicale",
+    "description": "Sang pour certaines races communes, gazes, injecteur anti-rayonnement, scalpel laser, antiseptiques, fil, analgésiques. [2 charges]"
+  },
+  "(S) Melee Weapon": {
+    "name": "(Est) Arme de mêlée",
+    "description": "Pointu. Percutant. Pointu. Perforant. Tranchant. Toutes les tailles différentes. Certains viennent avec des bords laser. Certains vibrent... Oh! Piles incluses. [1 charge]"
+  },
+  "(S) Repair Tools": {
+    "name": "(est) Outils de réparation",
+    "description": "Des choses dont vous avez besoin pour réparer les moteurs des vaisseaux, les vélocipèdes, les planeurs, etc. Outils pour épisser les consoles et ajuster les machines. Marteaux, un fer à souder, tournevis, clés anglaises, chargeurs de batterie, peintures en spray. [1 charge]"
+  },
+  "(S) Spacesuit": {
+    "name": "(Est) Combinaison spatiale",
+    "description": "Protection contre les radiations, survie dans des atmosphères toxiques, EVA (activité extra-véhiculaire). Une demi-journée d’oxygène (ou tout autre gaz, liquide ou substance que vous respirez). [2 charges]"
+  },
+  "(S) Spy Gear": {
+    "name": "(Est) Équipe d’Espionnage",
+    "description": "Déguisements, modulateurs vocaux, mini-caméras, scanners thermiques, fausses empreintes digitales et filtres audio. [1 charge]"
+  },
+  "(Sc) Fine Blaster Pistol": {
+    "name": "(Ça) Pistolet Blaster de qualité",
+    "description": "(o un par a juego)nPersonalizada o extraña. Puede disparar munición mística. ¿Qué es lo que disparan? ¿De dónde las has sacado? ¿Las has nombrado? [1 o 2 cargas]",
+    "class": "Canaille"
+  },
+  "(Sc) Fine Coat": {
+    "name": "(Ça) Veste de qualité",
+    "description": "Une veste lourde, mais bien faite et bien entretenue. Distinctive et historique. Où l’avez-vous trouvée ? Était-ce un cadeau, un achat impulsif ou avez-vous gagné sur un pari? Est-il décoré avec un logo ou un logo? Assurez-vous qu’il a une apparence ou une couleur mémorable. [1 charge]",
+    "class": "Canaille"
+  },
+  "(Sc) Forged Documents": {
+    "name": "(Ça) Faux documents",
+    "description": "Des fac-similés de documents raisonnablement bien faits qui ne seraient jamais accordés à quelqu’un comme vous. Qui les a faits ? Vous devez encore quelqu’un pour eux ? Ou je sais que tu les as volés à quelqu’un ? [0 charge]",
+    "class": "Canaille"
+  },
+  "(Sc) Loaded Dice or Trick Holo-cards": {
+    "name": "(ça) Dés ou cartes holographiques truquées",
+    "description": "Les accessoires du jeu ont été subtilement modifiés pour favoriser certains résultats. La chance est l’une de vos nombreuses compétences, mais vous avez parfois besoin d’un peu d’aide. À quand remonte la dernière fois où vous avez eu des ennuis ? [0 charge]",
+    "class": "Canaille"
+  },
+  "(Sc) Mystic Ammunition": {
+    "name": "(ça) Munitions mystiques",
+    "description": "Avec une cartouche de grand calibre, conçue pour être tirée à partir d’une arme spécialisée qui libère des énergies mystiques lorsqu’elle frappe. Donnez de la puissance contre des objectifs mystiques. Qui fabrique vos balles mystiques ? Pourquoi sont-elles efficaces contre les énergies de la Voie ? [0 charge]",
+    "class": "Canaille"
+  },
+  "(Sc) Personal Memento": {
+    "name": "(Ça) Souvenir personnel",
+    "description": "Un souvenir que vous appréciez. Un reliquaire, un petit hologramme, de la musique de votre monde. Pour quelqu’un d’aussi lié au voyage spatial, qu’est-ce qui rend ce souvenir si important ? De qui vous souvenez-vous ? Pourquoi le gardez-vous ? [0 charge]",
+    "class": "Canaille"
+  },
+  "(Sp) Fine Clothes": {
+    "name": "(or) Vêtements de qualité",
+    "description": "Des paréos en soie, des costumes, de fines capes bleues. Vous excellez et vous êtes toujours habillé pour l’occasion. Personne ne pensera que c’est un costume. Quel ensemble est votre favori? [1 charge]",
+    "class": "Orateur"
+  },
+  "(Sp) Large Luxury Item": {
+    "name": "(or) Objet de Luxe Grande",
+    "description": "Liqueurs fines, petits cadeaux bien pensés, épices et parfums, instruments de qualité, jeux populaires, etc. Ils peuvent venir dans une variété de tailles. Chaque fois que vous emmenez l’un d’eux au travail, il explique ce qu’il est et pourquoi il est luxueux. [2 charges]",
+    "class": "Orateur"
+  },
+  "(Sp) Légitimée ID": {
+    "name": "(or) Carte d’identité légitime",
+    "description": "Une identification hégémonique dûment codée qui indique votre séjour légitime dans l’hégémonie. Qui remarquera quand vous l’utiliserez ? [0 charge]",
+    "class": "Orateur"
+  },
+  "(Sp) Medium Luxury Item": {
+    "name": "(or) Objet de Luxe Moyen",
+    "description": "Liqueurs fines, petits cadeaux bien pensés, épices et parfums, instruments de qualité, jeux populaires, etc. Ils peuvent venir dans une variété de tailles. Chaque fois que vous emmenez l’un d’eux au travail, il explique ce qu’il est et pourquoi il est luxueux. [1 charge]",
+    "class": "Orateur"
+  },
+  "(Sp) Memento Of a Past Encounter": {
+    "name": "(Or) Souvenir d’une Rencontre Passée",
+    "description": "Un bijou distinctif, une lame de qualité avec le blason d’une maison, un sceau, une petite statue. De qui sont-ils et pourquoi les conserves-tu ? [0 charge]",
+    "class": "Orateur"
+  },
+  "(Sp) Small Luxury Item": {
+    "name": "(or) Petit objet de luxe",
+    "description": "Liqueurs fines, petits cadeaux bien pensés, épices et parfums, instruments de qualité, jeux populaires, etc. Ils peuvent venir dans une variété de tailles. Chaque fois que vous emmenez l’un d’eux au travail, il explique ce qu’il est et pourquoi il est luxueux. [0 charge]",
+    "class": "Orateur"
+  },
+  "(St) Candies and Treats": {
+    "name": "(ci) Bonbons et bonbons",
+    "description": "Pour les clients les plus courageux. Les mangez-vous aussi ? Avez-vous déjà utilisé un sédatif pour quelqu’un ? [1 charge]",
+    "class": "Chirurgien"
+  },
+  "(St) Fine Bedside Manner": {
+    "name": "(ci) Bon traitement des patients",
+    "description": "Un charme qui met les patients à l’aise. Certains médecins ne s’en soucient pas. Savez-vous comment interagir avec beaucoup de gens ? Partagez-vous beaucoup d’anecdotes ? Projetez-vous une image de savoir ce que vous faites ? [0 Charge]",
+    "class": "Chirurgien"
+  },
+  "(St) Fine Clothing": {
+    "name": "(ci) Vêtements de qualité",
+    "description": "Un costume ou un ensemble pour des dîners élégants et des réunions de la haute société. Est-ce un artefact de votre passé ou quelque chose que vous avez acheté lorsque vous avez dû demander un financement pour votre travail médical? [1 charge]",
+    "class": "Chirurgien"
+  },
+  "(St) Fine Medkit": {
+    "name": "(ci) Trousse médicale de qualité",
+    "description": "Mieux garni que les trousses de premiers secours. Pinces à épiler, scanners diagnostiques portables, fausse fourrure, stabilisateurs osseux, spray hypoglycémiant, antidote (pour les bêtes extraterrestres dangereuses) et un grand choix de médicaments. Y a-t-il une marque distinctive dans votre armoire à pharmacie ? [2 charges]",
+    "class": "Chirurgien"
+  },
+  "(St) Recognizable Medic Garb": {
+    "name": "(ci) Uniforme médical reconnaissable",
+    "description": "La tenue commune pour un sanitaire de couleur rouge avec le sceau médical blanc officiel de l’Hégémonie. Reconnaissable à distance. Quelles sont les règles relatives au traitement des médecins au combat? Le personnel médical a-t-il des obligations légales tout en portant l’uniforme? [0 charge]",
+    "class": "Chirurgien"
+  },
+  "(St) Syringes and Applicators": {
+    "name": "(ci) Seringues et applicateurs",
+    "description": "Seringues, injecteurs, applicateurs de patchs. Beaucoup peuvent être facilement cachés dans la main. Parfois, avoir des médicaments à portée de main signifie aussi les administrer subtilement. Certains médicaments n’ont-ils pas de but médical ? [0 charge]",
+    "class": "Chirurgien"
+  }
+}

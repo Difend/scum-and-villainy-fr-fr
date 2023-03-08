@@ -1,0 +1,88 @@
+{
+  "title": "Scum and Villainy - Français",
+  "description": "Traduction du système Scum & Villany en français",
+  "version": "0.0.1",
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français (France)",
+      "path": "fr-fr.json",
+      "flags": {}
+    }
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "packs": [
+    {
+      "name": "ayudas-y-reglas",
+      "label": "Ayudas y Reglas",
+      "path": "packs/ayudas-y-reglas.db",
+      "private": false,
+      "type": "JournalEntry",
+      "system": "scum-and-villainy",
+      "flags": {}
+    },
+    {
+      "name": "macros-es",
+      "label": "Macros ES",
+      "path": "packs/macros-es.db",
+      "private": false,
+      "type": "Macro",
+      "system": "scum-and-villainy",
+      "flags": {}
+    },
+    {
+      "name": "tablas-de-nivel-de-se-busca",
+      "label": "Tablas de Nivel de Se Busca",
+      "path": "packs/tablas-de-nivel-de-se-busca.db",
+      "private": false,
+      "type": "RollTable",
+      "system": "scum-and-villainy",
+      "flags": {}
+    },
+    {
+      "name": "tablas-de-trabajos",
+      "label": "Tablas de Trabajos",
+      "path": "packs/tablas-de-trabajos.db",
+      "private": false,
+      "type": "RollTable",
+      "system": "scum-and-villainy",
+      "flags": {}
+    }
+  ],
+  "id": "scum-and-villainy-fr-fr",
+  "authors": [
+    {
+      "name": "Difend",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "scum-and-villainy",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "0.8.9",
+    "verified": "9.238"
+  }
+}

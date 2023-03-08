@@ -1,0 +1,114 @@
+{
+"label": "Capacités du Vaisseau",
+"mapping": {
+"description": "data description.",
+"class":"data class."
+},
+
+"entries": {
+  "(C) Deadly": {
+    "name": "(C) Mortel",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.",
+    "class":"Cerbère"
+  },
+  "(C) Licensed": {
+    "name": "(C) Sous licence",
+    "description": "Obtenez -2 Attention sur n'importe quel travail légitime de chasseur de primes. Il peut être utilisé pour expliquer le fait d'être dans des endroits où vous ne devriez pas être et de porter des armes alors qu'elles seraient autrement confisquées. la coopération avec la justice varie d'une planète à l'autre.",
+    "class":"Cerbère"
+  },
+  "(C) Light Touch": {
+    "name": "(C) Toucher fin",
+    "description": "Le pouvoir est obtenu en suivant une cible ou en recueillant des informations sur l'emplacement passé d'une cible. Les emplacements passés peuvent inclure des endroits où ils ont séjourné, des scènes de crime, des bars préférés, etc. Il peut également être utilisé pour savoir si vous êtes proche de la cible.",
+    "class":"Cerbère"
+  },
+  "(C) Loaded For Bear": {
+    "name": "(C) Chargés jusqu’aux Trancas",
+    "description": "Votre équipage peut transporter +1 cargaison. A une armure distinctive de haute qualité.nnLorsque vous portez une armure, elle compte comme une armure lourde (deux utilisations).nnLa charge maximale de chaque membre d'équipage est augmentée (la charge légère devient donc 1-4, moyenne 5-6 et lourde 7-9 ). Qui a créé cette armure distinctive (et qui peut reconnaître sa fabrication) ? L'armure lourde vous permet de cocher la deuxième case d'armure (lourde) de votre compteur pour réduire les dégâts correspondants.",
+    "class":"Cerbère"
+  },
+  "(C) On the Trail": {
+    "name": "(C) Suivre la piste",
+    "description": "L'équipage obtient une activité supplémentaire pendant son temps libre pour travailler sur des projets à long terme ou acquérir des ressources pour retrouver les primes.nnParfois, vous connaissez la prime, mais vous ne savez pas où elle est cachée. En fonction de vos contacts et de vos influences, plus qu'un simple jet de collecte d'informations peut être nécessaire. N'importe quel membre de l'équipe peut utiliser cette action pendant son temps libre et faire le jet correspondant.",
+    "class":"Cerbère"
+  },
+  "(C) Play Both Sides": {
+    "name": "(C) Jouer à deux Bandes",
+    "description": "Lorsque vous libérez une cible de prime, cela peut être fait par un contact d'équipage.Bien que vous ne soyez peut-être pas payé par les factions qui vous embauchent, de nombreuses cibles ont quelques crédits économisés et sont prêtes à échanger contre leur liberté. Cependant, les emplois d'initiés ou les informations qu'ils peuvent détenir peuvent être beaucoup plus lucratifs. Ajoutez la cible en tant que contact d'équipage, en gardant à l'esprit qu'un jour, elle pourrait être capturée par d'autres chasseurs de primes (et pourrait payer une rançon à votre équipage). Tous les chasseurs de primes ne capturent pas leurs cibles, donc le maître ajustera (ou non) le statut de la faction comme l'exige le récit à la fin dudit travail.",
+    "class":"Cerbère"
+  },
+  "(C) Snatch’N’Grab": {
+    "name": "(C) Capture et Préhension",
+    "description": "Lorsque vous utilisez une tromperie, une infiltration ou un plan social pour exécuter un enlèvement ou une extraction, ajoutez +1d à votre jet d'engagement.nnLe but de votre équipage est d'extraire en toute sécurité une cible prioritaire sans déclencher d'alarmes. Toute mission dans laquelle vous devez extraire un objectif gardé par ses gardes s'applique à cette capacité.",
+    "class":"Cerbère"
+  },
+  "(F) Forged In Fire": {
+    "name": "(Dr) Forgé en Feu",
+    "description": "L'équipage a été durci par une expérience cruelle. Chacun de vous reçoit +1d à tous les tours de résistance. Cette compétence s'applique à tous les PJ de l'équipage.",
+    "class":"Dragon de feu"
+  },
+  "(F) Hearts & Minds": {
+    "name": "(Dr) Cœurs & Esprits",
+    "description": "Chaque membre d'équipage peut ajouter 1 point d'action pour commander, socialiser ou convaincre (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale de points d'action.",
+    "class":"Dragon de feu"
+  },
+  "(F) Just Cause": {
+    "name": "(Dr) Cause juste",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.0",
+    "class":"Dragon de feu"
+  },
+  "(F) Natural Enemies": {
+    "name": "(Dr) Ennemis Naturels",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.1",
+    "class":"Dragon de feu"
+  },
+  "(F) Old Hands": {
+    "name": "(Dr) Vieilles Mains",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.2",
+    "class":"Dragon de feu"
+  },
+  "(F) Spark Of Rebellion": {
+    "name": "(Dr) Étincelle de rébellion",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.3",
+    "class":"Dragon de feu"
+  },
+  "(F) Sympathizers": {
+    "name": "(Dr) Sympathisants",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.4",
+    "class":"Dragon de feu"
+  },
+  "(S) Cargo Eye": {
+    "name": "(Ba) Œil de chargement",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.5",
+    "class":"Ballerine Stellaire"
+  },
+  "(S) Field Repairs": {
+    "name": "(Ba) Réparations en vol",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.6",
+    "class":"Ballerine Stellaire"
+  },
+  "(S) Home Cooking": {
+    "name": "(Ba) Cuisine maison",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.7",
+    "class":"Ballerine Stellaire"
+  },
+  "(S) Just Passing Through": {
+    "name": "(Ba) Seulement de Paso",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.8",
+    "class":"Ballerine Stellaire"
+  },
+  "(S) Leverage": {
+    "name": "(Ba) Influence",
+    "description": "Chaque PJ peut ajouter 1 point d'action à Command, Brawl ou Sneak (jusqu'à un maximum de 3).nnChaque joueur peut choisir son action préférée (il n'est pas obligé de choisir la même). Si vous utilisez cette capacité lors de la création initiale du personnage et de l'équipage, elle remplace la limite initiale normale des valeurs de points d'action.9",
+    "class":"Ballerine Stellaire"
+  },
+  "(S) Problem Solvers": {
+    "name": "(Ba) Solutions de problèmes",
+    "description": "Obtenez -2 Attention sur n'importe quel travail légitime de chasseur de primes. Il peut être utilisé pour expliquer le fait d'être dans des endroits où vous ne devriez pas être et de porter des armes alors qu'elles seraient autrement confisquées. la coopération avec la justice varie d'une planète à l'autre.0",
+    "class":"Ballerine Stellaire"
+  },
+  "(S) The Getaway": {
+    "name": "(Ba) La Fuga",
+    "description": "Obtenez -2 Attention sur n'importe quel travail légitime de chasseur de primes. Il peut être utilisé pour expliquer le fait d'être dans des endroits où vous ne devriez pas être et de porter des armes alors qu'elles seraient autrement confisquées. la coopération avec la justice varie d'une planète à l'autre.1",
+    "class":"Ballerine Stellaire"
+  }
+}

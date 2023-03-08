@@ -1,0 +1,36 @@
+{
+"label": "Histoire",
+"mapping": {
+"description": "data description."
+},
+
+"entries": {
+  "Academic": {
+  "name": "Académique",
+  "description": "Professeur, étudiant, chercheur ou autre vocation orientée vers la connaissance."
+  },
+  "Cult": {
+  "name": "Cultiste",
+  "description": "Partie d’un culte, officiellement sanctionné ou non. Un guerrier sacré, un prêtre ou un dévot religieux."
+  },
+  "Guide": {
+  "name": "Guilde",
+  "description": "Il participe aux machinations d’une corporation, comme concepteur de navires, analyste financier ou officier de logistique."
+  },
+  "Labeur": {
+  "name": "Travailleur",
+  "description": "Travailleur d’usine, conducteur, docker, mineur ou autre commerçant. La majeure partie de l’hégémonie est de cette origine."
+  },
+  "Military": {
+  "name": "Militaire",
+  "description": "Un soldat hégémonique, mercenaire, agent de renseignement, stratège, instructeur de combat, etc."
+  },
+  "Noble": {
+  "name": "Noble",
+  "description": "Vous avez vécu une vie de luxe, comme un dilettante, quelqu’un impliqué dans la politique domestique, etc."
+  },
+  "Syndicate": {
+  "name": "Crime organisé",
+  "description": "Il fait partie d’une bande de criminels organisés, allant du gardien le plus bas à un ancien chef déchu."
+  }
+}

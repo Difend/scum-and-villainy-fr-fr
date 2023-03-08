@@ -1,0 +1,40 @@
+{
+"label": "Réputation de l’équipage",
+"mapping": {
+"description": "data description."
+},
+
+"entries": {
+  "Ambitious": {
+  "name": "Ambitieuse",
+  "description": "Avoir ou montrer un fort désir et la volonté de réussir."
+  },
+  "Brutal": {
+  "name": "Brutal",
+  "description": "Extrêmement violente."
+  },
+  "Daring": {
+  "name": "Audacieuse",
+  "description": "Aventureux ou audacieux."
+  },
+  "Honorable": {
+  "name": "Honorée",
+  "description": "Digne d’honneur."
+  },
+  "Professional": {
+  "name": "Professionnelle",
+  "description": "Avoir les qualités associées aux personnes formées et qualifiées, telles que l’efficacité, la compétence, l’organisation et le sérieux."
+  },
+  "Savvy": {
+  "name": "Experte",
+  "description": "Astucieuse et expérimentée, elle a un bon jugement et un bon sens de la situation."
+  },
+  "Strange": {
+  "name": "Particulier",
+  "description": "Inhabituel ou surprenant d’une manière qui est troublante ou difficile à comprendre."
+  },
+  "Subtle": {
+  "name": "Subtil",
+  "description": "Utilisez des méthodes intelligentes et indirectes pour obtenir quelque chose."
+  }
+}

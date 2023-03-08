@@ -1,0 +1,259 @@
+{
+"label": "Amis",
+"mapping": {
+"description": "data description.",
+"class":"data class."
+},
+
+"entries": {
+  "?": {
+    "name": "?",
+    "description": "Créez quelqu’un de votre passé lorsque vous êtes inspiré. Si vous obtenez la capacité Vieux amis, étendez cette liste lorsque vous atterrissez dans un nouvel endroit.",
+    "class":"Orateur"
+  },
+  "Ada Black": {
+    "name": "Ada Black",
+    "description": "Une artiste célèbre. La favorite du secteur. Peut-être que vos voyages pourraient être une bonne couverture pour infiltrer les zones bloquées?",
+    "class":"Dragon de feu"
+  },
+  "Alben": {
+    "name": "Alben",
+    "description": "Un ancien patient. Qu’est-ce qu’il avait ? Comment peut-il vous aider ?",
+    "class":"Chirurgien"
+  },
+  "Alor": {
+    "name": "Alor",
+    "description": "Un serveur aux oreilles pointues. Bonne source de travail et de boissons. Qu’est-ce que vous lui apportez de vos voyages ?",
+    "class":"Ballerine Stellaire"
+  },
+  "Arlox": {
+   "name": "Arlox",
+    "description": "Un Pacha des Couteaux de Cendres. C’était un tueur, maintenant c’est le chef de la bande. Vous chassez aussi des récompenses illégales pour eux ?",
+    "class":"Cerbère"
+  },
+  "Arryn": {
+    "name": "Arryn",
+    "description": "Une femme de la noblesse. Une vieille amie ou un parent ? Ou quelqu’un dont vous avez dépassé les limites ?",
+    "class":"Orateur"
+  },
+  "Aya": {
+    "name": "Aya",
+    "description": "Une meurtrière. Une ancienne maîtresse qui vous aime encore ? Un cœur rejeté ? Ou êtes-vous une cible qui s’est échappée ?",
+    "class":"Muscle"
+  },
+  "Battro": {
+    "name": "Battro",
+    "description": "Un chasseur de primes. Vous a-t-il déjà laissé partir ? Est-ce qu’il vous cherche ?",
+    "class":"Canaille"
+  },
+  "Blish": {
+    "name": "Blish",
+    "description": "Un compagnon mystique. Marcher sur le même chemin ou avec des croyances complètement différentes sur la Voie ?",
+    "class":"Mystique"
+  },
+  "Chon-Zek": {
+    "name": "Chon-Zek",
+    "description": "Un chasseur de primes. Un ancien partenaire ? Ou un concurrent avec la même trajectoire ?",
+    "class":"Muscle"
+  },
+  "Choss": {
+    "name": "Choss",
+    "description": "Un pilote professionnel. Avez-vous de bons conseils à échanger ? Ou s’efforcent-ils toujours de se surpasser ?",
+    "class":"Pilote"
+  },
+  "Citani": {
+    "name": "Citani",
+    "description": "Un agent de renseignements solitaire. Qui est votre patron quand il n’est pas avec l’équipage ? Quel genre d’informations vendez-vous normalement ?",
+    "class":"Ballerine Stellaire"
+  },
+  "Ditha": {
+    "name": "Ditha",
+    "description": "Un membre de la famille. Soutenez-vous votre travail ? Ou essayez-vous de vous faire rentrer chez vous ?",
+    "class":"Chirurgien"
+  },
+  "Garin": {
+    "name": "Garin",
+    "description": "Un ingénieur en armes de la Guilde. Sa conscience ne lui permet pas d’exécuter tous les ordres de la Guilde ? Il a aidé à acquérir votre vaisseau ?",
+    "class":"Dragon de feu"
+  },
+  "Heani": {
+    "name": "Heani",
+    "description": "Un capitaine de remorqueur. Combien de fois vous croisez-vous dans l’obscurité de l’espace ? Quand est-ce qu’il vous a ramené sain et sauf ?",
+    "class":"Ballerine Stellaire"
+  },
+  "Hicks": {
+    "name": "Hicks",
+    "description": "Un fournisseur de produits mystiques. Un fournisseur fiable de cristaux vosiens ou un opportuniste insensible qui attaque votre foi ?",
+    "class":"Mystique"
+  },
+  "Horux": {
+    "name": "Horux",
+    "description": "Un vieux professeur. Tu vas toujours la voir pour lui demander conseil ? Ou penses-tu avoir abusé de ses enseignements ?",
+    "class":"Mystique"
+  },
+  "Ibo-one": {
+    "name": "Ibo-one",
+    "description": "Un ancien mystique d’un culte. Peut-être un guide de ruines dangereuses Ur où se cacher?",
+    "class":"Dragon de feu"
+  },
+  "Ishi": {
+    "name": "Ishi",
+    "description": "Un trafiquant d’armes. Les récompenses viennent armées et Ishi nivelle le terrain. Il a ajusté votre vaisseau ?",
+    "class":"Cerbère"
+  },
+  "Jackev": {
+    "name": "Jackev",
+    "description": "Un trafiquant de drogue. Une connexion légitime ou vous nourrissez une dépendance ? Ou cela a-t-il compromis vos profits ?",
+    "class":"Chirurgien"
+  },
+  "Jal": {
+    "name": "Jal",
+    "description": "Mécanicien de vaisseau. Vous a-t-il toujours aidé avec votre vaisseau ? Ou est-ce votre vaisseau et veut-il le récupérer ?",
+    "class":"Canaille"
+  },
+  "Je-Zee": {
+    "name": "Je-Zee",
+    "description": "Un diplomate. Étaient-ils de factions alliées ou de factions opposées ?",
+    "class":"Orateur"
+  },
+  "Jezri": {
+    "name": "Jezri",
+    "description": "Un intermédiaire. Tout ce dont vous avez besoin, Jezri l’a. Informations, équipement, emplois, amis et ennemis. Jezri vous a-t-il aidé à récupérer votre vaisseau ou votre permis ?",
+    "class":"Cerbère"
+  },
+  "Juda": {
+    "name": "Juda",
+    "description": "Un médecin. Est-ce qu’elle t’aide ? Ou est-ce une vieille rivale qui veut te punir pour avoir pratiqué la médecine illégalement ?",
+    "class":"Chirurgien"
+  },
+  "Kenn": {
+    "name": "Kenn",
+    "description": "Un membre de la famille. Êtes-vous aussi mécanicien ? Se sont-ils battus pour l’attention de vos parents ?",
+    "class":"Mécanicien"
+  },
+  "Kerry": {
+    "name": "Kerry",
+    "description": "Un docteur. Il s’occupe toujours de toi ? Ou lui as-tu brisé le cœur ?",
+    "class":"Orateur"
+  },
+  "Krieger": {
+    "name": "Krieger",
+    "description": "Un pistolet Blaster. Est-ce votre arme préférée ? Ou est-ce un adversaire qui l’utilise contre vous ?",
+    "class":"Muscle"
+  },
+  "Laxx": {
+    "name": "Laxx",
+    "description": "Un xeno. ¿Amigo inusual o enemigo peligroso? ¿Muy sensible o su amigo "normal"?",
+    "class":"Mystique"
+  },
+  "Len": {
+    "name": "Len",
+    "description": "Un dealer du marché noir. Est-ce qu’il vous fournit les pièces que personne d’autre ne peut faire ? Est-ce qu’il n’a pas tenu ses promesses ?",
+    "class":"Mécanicien"
+  },
+  "Lix": {
+    "name": "Lix",
+    "description": "Un traqueur Xeno. Est-ce un Xeno avec la caractéristique de suivre des personnes ou quelqu’un qui chasse des Xenos ?",
+    "class":"Cerbère"
+  },
+  "Lynie": {
+    "name": "Lynie",
+    "description": "Un administrateur d’hôpital. Un ancien patron ? Il a des ennuis à cause de toi ?",
+    "class":"Chirurgien"
+  },
+  "Manda": {
+    "name": "Manda",
+    "description": "Un membre de la guilde. Avez-vous reçu des informations confidentielles ? Ou avez-vous volé les secrets de la guilde ?",
+    "class":"Orateur"
+  },
+  "Mav": {
+    "name": "Mav",
+    "description": "Un ancien mentor. Quelles astuces vous a-t-il apprises ? Envie-t-il maintenant vos compétences ?",
+    "class":"Pilote"
+  },
+  "Meris": {
+    "name": "Meris",
+    "description": "Un coquin. Ont-ils travaillé ensemble? Vous a-t-il déjà trompé?",
+    "class":"Pilote"
+  },
+  "Nisa": {
+    "name": "Nisa",
+    "description": "Un ancien employeur. Capitaine ou entrepreneur ? Ça s’est bien terminé ?",
+    "class":"Mécanicien"
+  },
+  "Nyx": {
+    "name": "Nyx",
+    "description": "Un prêteur. Êtes-vous son client préféré ? Ou un débiteur de dettes ?",
+    "class":"Canaille"
+  },
+  "Tantôt": {
+    "name": "Tantôt",
+    "description": "Un agent d’information. Toujours des conseils passionnants ?",
+    "class":"Canaille"
+  },
+  "Rakka": {
+    "name": "Rakka",
+    "description": "Une diplomate. Quelle faction représentez-vous ? Comment êtes-vous devenus amis avec quelqu’un d’aussi influent ?",
+    "class":"Ballerine Stellaire"
+  },
+  "Rhin": {
+    "name": "Rhin",
+    "description": "Un contrebandier. Une source fiable qui vous donne des conseils? Une fille coquine qui a gravi les échelons grâce à vous? Ou une rivale dans ton boulot ?",
+    "class":"Canaille"
+  },
+  "Rye": {
+    "name": "Rye",
+    "description": "Un amour non partagé. Sa formation et ses coutumes qui s’interposent ?",
+    "class":"Mystique"
+  },
+  "Shod": {
+    "name": "Shod",
+    "description": "Un trafiquant d’armes. Un mentor ou un ex-partenaire qui est tombé? Est-ce quelqu’un à qui vous devez?",
+    "class":"Muscle"
+  },
+  "Slice": {
+    "name": "Slice",
+    "description": "un propriétaire de ferraille. Quelles parties garde-t-il pour vous? Ou avez-vous donné une amélioration?",
+    "class":"Mécanicien"
+  },
+  "Stacey Weathers": {
+    "name": "Stacey Weathers",
+    "description": "Excellente journaliste. Elle a toutes sortes de pistes exclusives, mais que demande-t-elle en retour ?",
+    "class":"Cerbère"
+  },
+  "Stev": {
+    "name": "Stev",
+    "description": "Un joueur de mauvaise réputation. Vous êtes amis depuis longtemps ? Avez-vous triché à la table ?",
+    "class":"Mécanicien"
+  },
+  "T’Kala": {
+    "name": "T’Kala",
+    "description": "Un maître strident. Il t’a aidé à récupérer le vaisseau ?",
+    "class":"Ballerine Stellaire"
+  },
+  "Tiko Lux": {
+    "name": "Tiko Lux",
+    "description": "Un pilote important. Le meilleur, mais expulsé de la Légion. Un chauffeur d’évasion pour vous?",
+    "class":"Dragon de feu"
+  },
+  "Triv": {
+    "name": "Triv",
+    "description": "Mécanicien de vaisseau. Vous a-t-il toujours aidé avec votre vaisseau ? A-t-il 'oublié' de le payer pour une amélioration majeure ?",
+    "class":"Pilote"
+  },
+  "Tyura": {
+    "name": "Tyura",
+    "description": "Un tueur légendaire. Comment avez-vous gagné sa loyauté? Quel est son conflit avec l’hégémonie?",
+    "class":"Dragon de feu"
+  },
+  "Yattu": {
+    "name": "Yattu",
+    "description": "Le chef d’un gang. Tu volais pour lui ? Tu l’as abandonné pour un boulot ?",
+    "class":"Pilote"
+  },
+  "Yazu": {
+    "name": "Yazu",
+    "description": "Un flic corrompu. Un ami pour couvrir vos traces ou quelqu’un qui vous poursuit toujours pour l’avoir mis dans le pétrin ?",
+    "class":"Muscle"
+  }
+}

@@ -1,0 +1,34 @@
+{
+"label": "Héritage",
+"mapping": {
+"description": "data description."
+},
+
+  "entries": {
+    "Colonist": {
+      "name": "Colon",
+      "description": "Familles de colons. Les agriculteurs, mineurs et terraformeurs forment la colonne vertébrale de l’hégémonie. Luttant pour vivre aux frontières des planètes, ces gens sont confrontés à des bêtes extraterrestres et à des ruines mystérieuses de Précurseurs plus que la plupart."
+    },
+    "Impérial": {
+      "name": "Impérial",
+      "description": "Los que tienen herencia imperial proceden de Warren o de los mundos centrales.nnHas sido educado en los métodos de la Hegemonía, a través de la educación vocacional del Gremio, las enseñanzas del Culto o los tutores de las familias nobles."
+    },
+    "Manufactured": {
+      "name": "Fabriqué",
+      "description": "Les «familles» fabriquées sont fondamentalement contrôlées d'une manière ou d'une autre par les guildes - par exemple, un clone de Yaru qui s'est échappé d'une installation ou un Urbot qui a évité les effacements de mémoire de routine. Il sera souvent nécessaire de cacher leur origine et leur indépendance."
+    },
+    "Spacer": {
+      "name": "Explorador Espacial",
+      "description": "Si vous préférez être plus à l’aise sur un ancien vaisseau, vous pouvez appartenir à une famille d’explorateurs de l’espace. Les mineurs de glace, les mécaniciens des stations et de nombreux commerçants naissent, vieillissent et meurent dans l’espace, et ils peuvent ou non voir leurs aventures terrestres avec méfiance."
+    },
+    "Wanderer": {
+      "name": "Vagabond",
+      "description": "Si no quieres un planeta al que llamar hogar, es posible que tengas una herencia andante.nnUna pequeña pero notable parte de la Hegemonía se desplaza de un planeta a otro a medida que surgen oportunidades y cambian los ciclos económicos galácticos. O simplemente deja que la Senda te lleve."
+    },
+    "Xeno": {
+      "name": "Xeno",
+      "description": "Les familles de Vingt sont aussi diverses que les innombrables types de Vingt de la galaxie. Vous avez été élevé dans une culture non humaine. Les Vingt luttent pour être acceptés dans l’hégémonie, et beaucoup de leurs pratiques sont considérées comme mystérieuses ou inhabituelles."
+    }
+  }
+}
+

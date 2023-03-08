@@ -1,0 +1,52 @@
+{
+"label": "Cours",
+"mapping": {
+"description": "data description.",
+"experience_clues": "data.experience_clues",
+"def_abilities": "data.def_abilities"
+},
+
+"entries": {
+"Mechanic": {
+"name": "Mécanicien",
+"description": "Un mécanicien et un hacker",
+"experience_clues": "Lorsque vous jouez en tant que mécanicien, vous gagnez XP en affrontant des défis avec des compétences techniques ou de l’esprit.",
+"def_abilities": "Apañar +2, Estudiar +1, (Me) ChatarreronSlice, Nisa, Stev, Len, Kenn"
+},
+"Muscle": {
+"name": "Muscle",
+"description": "Un combattant dangereux et intimidant",
+"experience_clues": "Lorsque vous jouez en tant que Muscle, vous gagnez XP en affrontant des défis avec force ou des menaces.",
+"def_abilities": "Luchar +2, Mandar +1, (Mu) ImparablenKrieger, Shod, Chon-zek, Yazu, Aya"
+},
+"Mystic": {
+"name": "Mystique",
+"description": "Un vagabond galactique en contact avec la Voie",
+"experience_clues": "Lorsque vous jouez en tant que mystique, vous gagnez XP en faisant face à des défis avec sagesse ou la Voie.",
+"def_abilities": "Sintonizar +2, Esfuerzo +1, (Mi) La SendanHorux, Hicks, Laxx, Rye, Blish"
+},
+"Pilot": {
+"name": "Pilote",
+"description": "Un génie de la navigation et accro au danger",
+"experience_clues": "Lorsque vous jouez en tant que Pilote, vous gagnez XP en affrontant des défis avec vitesse ou habileté.",
+"def_abilities": "Nave +2, Apañar +1, (P) Piloto EstrellanYattu, Triv, Choss, Meris, Mav"
+},
+"Scoundrel": {
+"name": "Canaille",
+"description": "Un survivant marginalisé et chanceux",
+"experience_clues": "Lorsque vous jouez comme une canaille, gagnez XP en affrontant des défis avec charme ou audace.",
+"def_abilities": "Convencer +2, Escabullir +1, (Ca) FortuitonNyx, Ora, Jal, Rhin, Battro"
+},
+"Speaker": {
+"name": "Orateur",
+"description": "Une personne respectable",
+"experience_clues": "Lorsque vous jouez en tant qu’orateur, vous gagnez XP en affrontant des défis avec tromperie ou influence.",
+"def_abilities": "Socializar +2, Mandar +1, (Or) Aire de RespetonArryn, Manda, Kerry, Je-zee, ?"
+},
+"Piqûre": {
+"name": "Chirurgien",
+"description": "Un guérisseur ou un scientifique voyageant dans l’espace",
+"experience_clues": "Lorsque vous jouez en tant que chirurgien, vous gagnez XP en relevant des défis avec perspicacité ou compassion.",
+"def_abilities": "Medicina +2, Estudiar +1, (Ci) Soy un Médico, No un...nJackev, Alben, Ditha, Juda, Lynie"
+}
+},
